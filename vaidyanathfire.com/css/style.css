@@ -8870,3 +8870,10 @@ h6 {
   width: 36px;
 }
 
+.map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Optional: Makes the sample page fill the window. */
