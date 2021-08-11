@@ -8891,3 +8891,9 @@ h6 {
   font-size: 26px;
   margin-bottom: 5px;
 }
+.mobile{
+  margin: 0px;
+  padding: 0px;
+  font-size: larger;
+  color: #FF3414;
+}
