@@ -89,7 +89,7 @@ h6 a {
 
 /* line 52, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
 ul {
-  margin: 0px;
+  margin: -5px;
   padding: 0px;
 }
 
@@ -882,7 +882,7 @@ h3 {
   border-radius: 3px;
   top: 5px;
   padding: 5px;
-  right: 6px;
+  right: 65px;
   margin-top: -5px;
   top: -31px;
 }
@@ -8880,4 +8880,14 @@ h6 {
 .productsubmenu{
   margin: 0px;
   padding: 0px;
+}
+
+.name{
+  margin: 0px;
+  padding: 0px;
+  font-size: x-large;
+  color: #FF3414;
+  font-weight: 500;
+  font-size: 26px;
+  margin-bottom: 5px;
 }
